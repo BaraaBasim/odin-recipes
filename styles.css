@@ -1,0 +1,18 @@
+
+
+h1 {
+    color: darkcyan;
+
+}
+
+
+a, ul, li {
+    font-size: large;
+    color: darkred;
+    text-decoration: none;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
